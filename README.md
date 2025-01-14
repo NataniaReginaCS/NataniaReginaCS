@@ -2,9 +2,6 @@
 
 I'm **Regina** ✨✨ 
 
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning web and mobile development.
 - 📫 How to reach me: check my profile.
 - 😄 Pronouns: She/Her.
