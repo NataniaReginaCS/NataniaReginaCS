@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://nataniareginacs.vercel.app/" target="_blank">open me! </a>
+<a href="https://nataniareginacs.vercel.app/" target="_blank">portofolio rere </a>
 <br />
 I'm **Regina** ✨✨ 
 
